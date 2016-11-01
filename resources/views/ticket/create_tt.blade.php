@@ -15,6 +15,10 @@
 
 <h3>madafak commit</h3>
 
+<<<<<<< HEAD
 
 
 <h4>mehraj is dying</h4>
+=======
+<h5>master is dead</h5>
+>>>>>>> refs/remotes/origin/showmen
