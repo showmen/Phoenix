@@ -11,3 +11,4 @@
 
 <a href="wwww.google.com">google</a>
 
+<input type="text" name="test">
