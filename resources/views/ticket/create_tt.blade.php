@@ -14,18 +14,5 @@
 <input type="text" name="test">
 
 <h3>madafak commit</h3>
-<<<<<<< HEAD
 
-
-
-
-
-
-
-
-
-
-
-<h4>mehraj is dying</h4>
-=======
->>>>>>> refs/remotes/origin/master
+<h5>master is dead</h5>
