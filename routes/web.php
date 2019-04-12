@@ -16,3 +16,4 @@ Route::get('/', function () {
 });
 
 Route::get('CreateTT','TicketController@create_tt');
+Route::get('DashboardTT','TicketController@create_tt');
